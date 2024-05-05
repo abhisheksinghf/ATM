@@ -1,0 +1,36 @@
+Name: a1
+ID: 1
+Card ID: 12345
+PIN: 1234
+Balance: 0.00
+Failed Login Attempts: 0
+Card Blocked: 0
+Last Withdrawal Date: 1697621491
+Daily Withdrawal Total: 200.00
+Name: a2
+ID: 2
+Card ID: 67890
+PIN: 6789
+Balance: 3700.00
+Failed Login Attempts: 0
+Card Blocked: 0
+Last Withdrawal Date: 1697621310
+Daily Withdrawal Total: 300.00
+Name: a3
+ID: 3
+Card ID: 123456
+PIN: 1234
+Balance: 0.00
+Failed Login Attempts: 4
+Card Blocked: 1
+Last Withdrawal Date: 0
+Daily Withdrawal Total: 0.00
+Name: Jhon
+ID: 4
+Card ID: 1234567
+PIN: 1234
+Balance: 30000.00
+Failed Login Attempts: 0
+Card Blocked: 0
+Last Withdrawal Date: 1697625832
+Daily Withdrawal Total: 20000.00

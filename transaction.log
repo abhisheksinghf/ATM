@@ -1,0 +1,14 @@
+Time: 2023-10-d 14:58:28, ID: 2, User: a2, Transaction Type: Balance Check, Amount: 0.00
+Time: 2023-10-d 14:59:55, ID: 2, User: a2, Transaction Type: Balance Check, Amount: 0.00
+Time: 2023-10-d 15:00:01, ID: 2, User: a2, Transaction Type: Deposit, Amount: 4000.00
+Time: 2023-10-d 15:00:07, ID: 2, User: a2, Transaction Type: Withdrawal, Amount: 300.00
+Time: 2023-10-d 15:01:05, ID: 2, User: a2, Transaction Type: Balance Check, Amount: 0.00
+Time: 2023-10-d 15:01:26, ID: 1, User: a1, Transaction Type: Balance Check, Amount: 0.00
+Time: 2023-10-d 15:01:30, ID: 1, User: a1, Transaction Type: Deposit, Amount: 200.00
+Time: 2023-10-d 15:01:35, ID: 1, User: a1, Transaction Type: Withdrawal, Amount: 200.00
+Time: 2023-10-d 16:11:56, ID: 4, User: Jhon, Transaction Type: Balance Check, Amount: 0.00
+Time: 2023-10-d 16:12:27, ID: 4, User: Jhon, Transaction Type: Deposit, Amount: 50000.00
+Time: 2023-10-d 16:13:57, ID: 4, User: Jhon, Transaction Type: Withdrawal, Amount: 10000.00
+Time: 2023-10-d 16:14:04, ID: 4, User: Jhon, Transaction Type: Withdrawal, Amount: 5000.00
+Time: 2023-10-d 16:14:09, ID: 4, User: Jhon, Transaction Type: Withdrawal, Amount: 5000.00
+Time: 2023-10-d 16:14:18, ID: 4, User: Jhon, Transaction Type: Balance Check, Amount: 0.00

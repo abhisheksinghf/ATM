@@ -1,0 +1,4 @@
+Initial ATM Balance (t): 1000000.00
+Maximum Daily Withdrawal Limit (k): 25000.00
+Maximum Per-Transaction Limit (m): 15000.00
+Initial ATM Deposit Limit (n): 100000.00
